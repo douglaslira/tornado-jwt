@@ -1,0 +1,9 @@
+backports-abc==0.4
+backports.ssl-match-hostname==3.4.0.2
+certifi==2015.11.20.1
+MySQL-python==1.2.5
+PyJWT==1.4.0
+singledispatch==3.4.0.3
+six==1.10.0
+tornado==4.3
+torndb==0.3
