@@ -8,6 +8,6 @@ python server.py
 
 ## Attention!!
 
-* 1 - Before install requirements
-
+* 1 - dnf install python-devel mysql-devel
+* 2 - Before install requirements
        pip install -r requirements
