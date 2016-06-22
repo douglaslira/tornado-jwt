@@ -10,4 +10,4 @@ python server.py
 
 * 1 - dnf install python-devel mysql-devel
 * 2 - Before install requirements
-       pip install -r requirements
+       pip install -r requirements.txt
